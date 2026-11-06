@@ -2,7 +2,7 @@ import re
 import hashlib
 from datetime import datetime
 
-# 東証スタンダード上場・株式会社アクセル 新規事業（AI・ブロックチェーン）領域想定
+# （AI・ブロックチェーン）領域想定
 # 【Pythonレイヤー】自動検証ハーネス ＆ 暗号化・データ解析スクリプト
 
 class LSIVerificationHarness:
